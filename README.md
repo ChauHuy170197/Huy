@@ -45,4 +45,6 @@
 
  + RAID 10 yêu cầu tối thiểu 4 ổ cứng, chỉ cho phép 1 ổ cứng hỏng, nhưng tốc độ truy xuất dữ liệu, đọc\ghi dữ liệu cao hơn RAID 6.
 
-11: 
+11: NIC Card hay còn gọi là card mạng, giúp máy tính kết nối ra môi trường bên ngoài, ví dụ kết nối internet, kết nối 2 máy tính hay kết nối trong môi trường mạng LAN. Cho phép kết nối có dây và không dây. Chuyển đổi các dữ liệu máy tính ra môi trường bên ngoài đến phương tiện khác và ngược lại. Hoạt động song song cùng một lúc vừa gửi và nhận cùng lúc. Trong card mạng có 2 phần quan trọng là địa chỉ IP và địa chỉ MAC. Địa chỉ IP để liên lạc giữa các mạng, địa chỉ MAC mã định danh duy nhất của card mạng, không thể thay đổi được.
+
+12: 
