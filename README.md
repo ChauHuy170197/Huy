@@ -31,5 +31,7 @@
 
 + Ổ cứng SANTA là ổ cứng dựa vào nó người ta cải tiến ổ SANTA tạo ra ổ cứng SSD hay dùng hiện nay. Nó xuất hiện 2003, dung lượng lưu trữ lớn có thể lên tới 16TB, tốc độc cao hơn chuẩn của IDE cụ thể là 600MB/s. Nếu cần thiết bị lưu trữ lớn với giá rẻ lại không cần tốc độ đọc/ghi cao thì nó là lựa chọn tốt. Tuy nhiên nó có nhược điểm dữ liệu dễ bị phân mảnh khiến cho tốc dộ truy cập vào chương trình chậm.
 
+9: CARD RAID là hình thức ghép nhiều ổ đĩa cứng vật lý thành một hệ thống ổ đĩa cứng có chức năng tăng tốc độ đọc ghi, tăng tính bảo đảm an toàn cho dữ liệu. Nó là giải pháp tăng tính bảo mật an toàn dữ liệu người dùng, còn tăng tốc độ truy suất dữ liệu, tốc độ đọc/ghi dữ liệu bằng cách chia đều cho các ở cứng cùng hoạt động đồng thời. RAID được chia thành 2 loại, RAID phần cứng và RAID phần mềm. RAID được chia thành 5 cấp độ chính từ RAID 0, RAID 1, RAID 5, RAID 6, RAID 10.
 
+10: Ưu nhược điểm
 
