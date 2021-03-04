@@ -66,3 +66,9 @@
   + Nas Synology(tập trung hóa dữ liệu người dùng dễ quản lý)
 
   + USB
+
+14: Hostpare được sử dụng như một cơ chế chuyển đổi dự phòng để cung cấp độ tin cậy trong cấu hình hệ thống. Hostspare được kết nối và như một phần của hệ thống làm việc. Khi một phần quan trọng của hệ thống gặp trục trặc, hostpare sẽ chuyển sang trạng thái sẵn sàng để khắc phục. Khi thiết lập chế độ này, ví dụ ta có RAID 1 gồm 2 ổ cứng HDD gộp thành, và một ổ gặp trục trặc, thay vì chúng ta phải tìm một HDD cùng serial thay thế thì Hostpare sẽ tự động thay vào thay thế HDD lỗi kia và tự động rebuild system RAID cho bạn.
+
+15: Cấu hình các RAID, đã tập cấu hình các RAID 0,1,5... 6 và 10 thì chưa
+
+16: 
