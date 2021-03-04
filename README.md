@@ -54,3 +54,15 @@
   + Tạo các bản ghi và theo dõi hệ điều hành, giúp khắc phục sự cố khi hệ điều hành lỗi.
 
   + Tạo một kết nối VPN với IPMI phần cứng trong mainboard, tạo người dùng và mật khẩu kết nối để cho an toàn.
+
+13: Storage là những thiết bị lưu trữ như ổ cứng, ổ đĩa, USB.... Có các loại thiết bị lưu trữ sau:
+
+  + Ổ cứng(HDD và SSD)
+
+  + Ổ cứng di động(kích thước nhỏ gọn, kết nối qua cổng USB)
+
+  + Đĩa Quang(CD,DVD,HD)
+
+  + Nas Synology(tập trung hóa dữ liệu người dùng dễ quản lý)
+
+  + USB
