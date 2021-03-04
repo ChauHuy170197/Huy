@@ -21,3 +21,4 @@
               + Mainboard có 2 chíp set quan trọng là chíp sét cầu bắc và chíp sét cầu nam, xử lý tốc độ bus của các thiết bị cắm vào mainboard, nên máy tính có thể hoạt động một cách thống nhất.
 
 
+7: RAM còn gọi là bộ nhớ truy cập ngẫu nhiên, nói lên rằng dù dữ liệu được lưu ở bất kỳ đâu trên RAM thì đều có thể truy cập được. Mọi thông tin lưu trữ trên RAM chỉ là tạm thời, khi máy tính bị ngắt đột ngột sẽ mất hết dữ liệu. Trong một khoảng thời gian nhất định, máy tính có thể xử lý được bao nhiêu luồng dữ liệu hay thông tin, phụ thuộc phần lớn vào RAM. Phần mềm máy tính chạy chậm hay chơi game giật lag, phụ thuộc phần lớn vào RAM.
