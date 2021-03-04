@@ -23,4 +23,11 @@
 
 7: RAM còn gọi là bộ nhớ truy cập ngẫu nhiên, nói lên rằng dù dữ liệu được lưu ở bất kỳ đâu trên RAM thì đều có thể truy cập được. Mọi thông tin lưu trữ trên RAM chỉ là tạm thời, khi máy tính bị ngắt đột ngột sẽ mất hết dữ liệu. Trong một khoảng thời gian nhất định, máy tính có thể xử lý được bao nhiêu luồng dữ liệu hay thông tin, phụ thuộc phần lớn vào RAM. Phần mềm máy tính chạy chậm hay chơi game giật lag, phụ thuộc phần lớn vào RAM. RAM có 2 loại là SDRAM(RAM động đồng bộ) và DRR(Tốc độ dữ liệu kép). RAM DRR là bản cải tiến của RAM SDR,tăng gấp đôi tốc độ truyền tải dữ liệu mà không làm tăng tần số xung nhịp.
 
+8: Ổ cứng có 2 loại là ổ HDD và SSD.
+
+      + Ổ cứng HDD hay còn gọi ổ cứng từ, là thiết bị lưu trữ, trên bề mặt được phủ vật liệu từ tính. Dung lượng lưu trữ lớn, giá thành rẻ, tốc độ đọc/ghi dữ liệu thấp. Dễ hỏng do tác động vật lý bên ngoài.Dùng để lưu trữ ngắn hạn, có thể mất dữ liệu khi mất nguồn điện đột ngột.
+
+      + Ổ cứng SSD còn gọi là ổ cứng dạng Rắn. Cũng là thiết bị lưu trữ, Trạng thái Rắn. Dung lượng lưu trữ nhỏ hơn HDD, giá thành cao, tốc độ đọc/ghi dữ liệu lớn gắp nhiều lần HDD. Không dễ bị hỏng do tác dộng vật lý bên ngoài. Dùng để lưu trữ dài hạn, không bị mất dữ liệu khi mất nguồn điện đột ngột.
+
+
 
