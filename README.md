@@ -25,9 +25,9 @@
 
 8: Ổ cứng có 2 loại là ổ HDD và SSD.
 
-      + Ổ cứng HDD hay còn gọi ổ cứng từ, là thiết bị lưu trữ, trên bề mặt được phủ vật liệu từ tính. Dung lượng lưu trữ lớn, giá thành rẻ, tốc độ đọc/ghi dữ liệu thấp. Dễ hỏng do tác động vật lý bên ngoài.Dùng để lưu trữ ngắn hạn, có thể mất dữ liệu khi mất nguồn điện đột ngột.
++ Ổ cứng HDD hay còn gọi ổ cứng từ, là thiết bị lưu trữ, trên bề mặt được phủ vật liệu từ tính. Dung lượng lưu trữ lớn, giá thành rẻ, tốc độ đọc/ghi dữ liệu thấp. Dễ hỏng do tác động vật lý bên ngoài.Dùng để lưu trữ ngắn hạn, có thể mất dữ liệu khi mất nguồn điện đột ngột.
 
-      + Ổ cứng SSD còn gọi là ổ cứng dạng Rắn. Cũng là thiết bị lưu trữ, Trạng thái Rắn. Dung lượng lưu trữ nhỏ hơn HDD, giá thành cao, tốc độ đọc/ghi dữ liệu lớn gắp nhiều lần HDD. Không dễ bị hỏng do tác dộng vật lý bên ngoài. Dùng để lưu trữ dài hạn, không bị mất dữ liệu khi mất nguồn điện đột ngột.
++ Ổ cứng SSD còn gọi là ổ cứng dạng Rắn. Cũng là thiết bị lưu trữ, Trạng thái Rắn. Dung lượng lưu trữ nhỏ hơn HDD, giá thành cao, tốc độ đọc/ghi dữ liệu lớn gắp nhiều lần HDD. Không dễ bị hỏng do tác dộng vật lý bên ngoài. Dùng để lưu trữ dài hạn, không bị mất dữ liệu khi mất nguồn điện đột ngột.
 
 
 
