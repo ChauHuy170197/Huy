@@ -71,4 +71,6 @@
 
 15: Cấu hình các RAID, đã tập cấu hình các RAID 0,1,5... 6 và 10 thì chưa
 
-16: 
+16:+ Iops hiểu đơn giản là tốc độ đọc/ghi trên một giây của thiết bị lưu trữ,cho phép xử lý luồng thông tin 2 chiều cùng một lúc, tốc độ xử lý nhanh, giúp thao nhanh, ứng dụng hoạt động tốt hơn.
+
+   + 
