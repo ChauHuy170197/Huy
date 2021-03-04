@@ -1,6 +1,6 @@
 # Trả Lời Các Câu Hỏi
 # Phần 1: Hiểu biết về server và linux căn bản
-1: Phần cứng server là những bộ phận có thể nhìn thấy được, bao gồm như là chíp CPU(trung tâm xử lý), Mainboard(mạch điện chính, kết nối các thiết bị phần trong máy), ổ cứng(lưu trữ dữ liệu), Ram(có 2 loại Ram là SDR và DRR), Chassis server(thùng máy bảo vệ linh kiện bên trong), Card Raid.
+1: Phần cứng server là những bộ phận có thể nhìn thấy được, bao gồm như là chíp CPU(trung tâm xử lý), Mainboard(mạch điện chính, kết nối các phần thiết bị trong máy), ổ cứng(lưu trữ dữ liệu), Ram(có 2 loại Ram là SDR và DRR), Chassis server(thùng máy bảo vệ linh kiện bên trong), Card Raid.
 
 2: Tủ Rack hiểu nó là tủ đựng các thiết bị mạng của doanh nghiệp, giúp tối ưu hóa các thiết bị mạng, tùy theo nhu cầu mà chọn loại tủ khác nhau, đơn vị đo kích thước của tủ là U, số U càng lớn thì khả năng lưu trữ nó càng lớn.
 
@@ -10,4 +10,14 @@
 
 5: Server TWIN còn gọi là máy chủ cặp, một TWIN server 1U có 2 máy chủ con gọi node. Mỗi node có 0,5U theo chiều ngang, 2 node dùng chung nguồn điện để tối ưu năng lượng, giúp giảm nguồn điện, chi phí làm mát, không gian đặt chố và tăng hiệu xuất so với máy chủ truyền thống 1U.
 
-6: 
+6: Mainboard là mạch điện chính hay còn gọi là bo mạch chủ
+
+              + Nó gắn kết tất cả các linh kiện và thiết bị ngoại vi thành một khối thống nhất.
+
+              + Điều khiển tốc độ và đường đi của các luồng dữ liệu.
+
+              + Cung cấp và phân phối điện áp cho các linh kiện gắn trên mainboard.
+
+              + Mainboard có 2 chíp set quan trọng là chíp sét cầu bắc và chíp sét cầu nam, xử lý tốc độ bus của các thiết bị cắm vào mainboard, nên máy tính có thể hoạt động một cách thống nhất.
+
+
