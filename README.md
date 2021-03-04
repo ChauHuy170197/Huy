@@ -29,5 +29,7 @@
 
 + Ổ cứng SSD còn gọi là ổ cứng dạng Rắn. Cũng là thiết bị lưu trữ, Trạng thái Rắn. Dung lượng lưu trữ nhỏ hơn HDD, giá thành cao, tốc độ đọc/ghi dữ liệu lớn gắp nhiều lần HDD. Không dễ bị hỏng do tác dộng vật lý bên ngoài. Dùng để lưu trữ dài hạn, không bị mất dữ liệu khi mất nguồn điện đột ngột.
 
++ Ổ cứng SANTA là ổ cứng dựa vào nó người ta cải tiến ổ SANTA tạo ra ổ cứng SSD hay dùng hiện nay. Nó xuất hiện 2003, dung lượng lưu trữ lớn có thể lên tới 16TB, tốc độc cao hơn chuẩn của IDE cụ thể là 600MB/s. Nếu cần thiết bị lưu trữ lớn với giá rẻ lại không cần tốc độ đọc/ghi cao thì nó là lựa chọn tốt. Tuy nhiên nó có nhược điểm dữ liệu dễ bị phân mảnh khiến cho tốc dộ truy cập vào chương trình chậm.
+
 
 
