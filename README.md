@@ -71,6 +71,14 @@
 
 15: Cấu hình các RAID, đã tập cấu hình các RAID 0,1,5... 6 và 10 thì chưa
 
-16:+ Iops hiểu đơn giản là tốc độ đọc/ghi trên một giây của thiết bị lưu trữ,cho phép xử lý luồng thông tin 2 chiều cùng một lúc, tốc độ xử lý nhanh, giúp thao nhanh, ứng dụng hoạt động tốt hơn.
+16:
 
-   + 
++ Iops hiểu đơn giản là tốc độ đọc/ghi trong khoảng thời gian một giây của ổ cứng,cho phép xử lý luồng thông tin 2 chiều cùng một lúc, tốc độ xử lý nhanh, giúp thao nhanh, ứng dụng hoạt động tốt hơn.
+
++ Throughp và Iops, latency là 3 thông số quan trọng nhất của các thiết bị lưu trữ. Throughp có thể hiểu là lượng dữ liệu đọc\ghi được trong một khoảng thời gian một giây của ổ cứng.
+
++ Test chất lượng của ổ cứng có nhiều cách, ví dụ dùng câu lệnh WMIC trong CMD, hay sử dụng các công cụ mạnh để test ổ cứng như CrystalDiskInfo....
+
++ Test ổ cứng HDD cũng có thể dùng 2 cách trên.
+
++ Check RAM còn hoạt động không thì nhiều cách, check trong task Manager phần Memory xem có nhận RAM hay không, hoạt động ntn, hay có thể dùng các công cụ test như Memtest86..
