@@ -47,4 +47,10 @@
 
 11: NIC Card hay còn gọi là card mạng, giúp máy tính kết nối ra môi trường bên ngoài, ví dụ kết nối internet, kết nối 2 máy tính hay kết nối trong môi trường mạng LAN. Cho phép kết nối có dây và không dây. Chuyển đổi các dữ liệu máy tính ra môi trường bên ngoài đến phương tiện khác và ngược lại. Hoạt động song song cùng một lúc vừa gửi và nhận cùng lúc. Trong card mạng có 2 phần quan trọng là địa chỉ IP và địa chỉ MAC. Địa chỉ IP để liên lạc giữa các mạng, địa chỉ MAC mã định danh duy nhất của card mạng, không thể thay đổi được.
 
-12: 
+12: IPMI là giao diện quản lý nền tảng thông minh, giúp chúng ta thực hiện các tác vụ khác nhau trên một máy chủ như truy cập vào phần cứng, giám sát, khởi động , tắt máy. IPMI là phần cứng gắn với mainboard, và hoạt động từ nó.
+
+  + Giám sát phần cứng quan trọng từ xa bằng nền tảng thông minh IPMI.
+
+  + Tạo các bản ghi và theo dõi hệ điều hành, giúp khắc phục sự cố khi hệ điều hành lỗi.
+
+  + Tạo một kết nối VPN với IPMI phần cứng trong mainboard, tạo người dùng và mật khẩu kết nối để cho an toàn.
