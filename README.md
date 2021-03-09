@@ -82,3 +82,16 @@
 + Test ổ cứng HDD cũng có thể dùng 2 cách trên.
 
 + Check RAM còn hoạt động không thì nhiều cách, check trong task Manager phần Memory xem có nhận RAM hay không, hoạt động ntn, hay có thể dùng các công cụ test như Memtest86..
+
+17: Các định dạng file của hệ thống(Ext2, Ext3, Ext4, xfs...)
+
+ + File ext là các file hệ thống đầu tiên được được dàng riêng cho linux, có 4 phiên bản gồm: ext2, ext3, ext4. Mỗi phiên bản đều có một tính năng nổi bật riêng, ext1 phiên bản đầu tiên là file hệ thống được nâng cấp từ file hệ thống Minix, được sử dụng tại thời điểm đó.Ngày nay nó không còn đáp ứng được tính phổ biến, không được hỗ trợ nhiều trên các bản phân phối.
+
++ File ext2 là file hệ thống không sử dụng journaling, được kế thừa phát triển bởi các file hệ thống cũ, hỗ trợ dung lượng ổ cứng đến 2TB. Vì không sử dụng journal nên có rất ít dữ liệu được ghi vào ổ đĩa. Vì khả năng viết và xóa dữ liệu thấp, thích hợp với các thiết bị lưu trữ ngoài như USB.
+
++ File ext3 là file hệ thống nâng cấp của ext2 đi kèm với jornaling. Tính năng nổi bật của nó hoạt động nhanh và ổn định hơn ext2, chuyển đổi từ các file hệ thống ext mà không cần format. Nhược điểm của nó không cho tạo disksnapshot và các file khôi phục sẽ rất khó xóa bỏ.
+
++ file ext4 Hiểu đơn giản nó là tổng hợp của các file ext trước cộng lại. giữ lại được các ưu điểm trước, chống phân mảnh dữ liệu. nhược điểm của nó như không hỗ trợ mã hóa minh bạch, chống trùng lặp dữ liệu, snapshort chỉ mới đang được thử nghiệm trên file ext4
+
++ File xfs là file hệ thống khá tương đồng với file ext4 như hoạt động nhanh và tính ổn định, chống phân mảnh dữ liệu, không cho các snapshort tự kết hợp nhau, có thể hỗ trợ file dữ liệu lớn, thay đổi kích thước file dữ liệu... nhưng không cho Shrink dữ liệu - chia nhỏ phân vùng xfs. Nhược điểm của nó khi hoạt động với các file dung lượng nhỏ hiệu xuất hoạt động của nó thấp hơn so với file hệ thống khác. Do vậy không thể áp dụng với hệ thống server nhỏ, hay data base, email có nhiều file log.
+
